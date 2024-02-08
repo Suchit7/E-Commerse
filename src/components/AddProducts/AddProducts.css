@@ -1,0 +1,38 @@
+.add-product h1{
+    margin: px auto;
+}
+
+.add-product form{
+    background-color: aqua;
+    width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+
+    display: grid;
+    grid-template-columns: 130px 430px;
+    row-gap: 15px;
+}
+
+.add-product label{
+    font-size: 20px;
+    text-align: left;
+    
+}
+.add-product>input{
+    font-size: 20px;
+    width: 430px;
+    height: 30px;
+
+}
+.add-product form input[type="radio"]{
+    accent-color: red;      /*for changing color of radio*/
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+.add-product form input[type="checkbox"]{
+    accent-color: red;
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}

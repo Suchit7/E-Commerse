@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "Username": "hbuh",
+      "Email": "hgmail.com",
+      "Password": "1",
+      "id": 1
+    },
+    {
+      "Username": "hbuh",
+      "Email": "hgmail.com",
+      "Password": "1",
+      "id": 2
+    },
+    {
+      "Username": "kjniujn",
+      "Email": "nnin",
+      "Password": "hbu",
+      "id": 3
+    },
+    {
+      "Username": "suchit",
+      "Email": "all",
+      "Password": "ass",
+      "id": 4
+    },
+    {
+      "Username": "aaaaaa",
+      "Email": "a@gmail.com",
+      "Password": "abc",
+      "id": 5
+    }
+  ]
+}
